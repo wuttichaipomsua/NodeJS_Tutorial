@@ -1,0 +1,27 @@
+
+
+
+
+node nodemssql.js
+
+
+npm install mssql
+npm install mssql@3.3.0
+
+
+open  in start+run   SQLServerManager13.msc  --> sql server 2016
+
+
+enable port tcp/ip in sql server configuration manager
+
+
+
+
+
+--clone
+git clone https://github.com/verde-id/verde.git
+
+--clone corda
+git clone https://github.com/corda/cordapp-example
+
+
